@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{DB6F0AD9-CAFC-4720-9CC7-DD1BC3788BF5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "projects", "projects", "{F2BC959A-DBBF-4AF0-8276-E495F1D32A55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItfCode.Extensions.Enumerable", "projects\ItfCode.Extensions.Enumerable\ItfCode.Extensions.Enumerable.csproj", "{C8B179FA-CFE7-4E7C-BAE8-D9A3790F706F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8B179FA-CFE7-4E7C-BAE8-D9A3790F706F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B179FA-CFE7-4E7C-BAE8-D9A3790F706F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B179FA-CFE7-4E7C-BAE8-D9A3790F706F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B179FA-CFE7-4E7C-BAE8-D9A3790F706F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C8B179FA-CFE7-4E7C-BAE8-D9A3790F706F} = {F2BC959A-DBBF-4AF0-8276-E495F1D32A55}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E47D609A-108C-4A55-902E-A172B7E1AEB4}
+	EndGlobalSection
+EndGlobal
