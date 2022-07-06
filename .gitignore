@@ -5,3 +5,5 @@
 /.vs/ItfCode.Extensions/v17
 /projects/ItfCode.Extensions.Enumerable/bin/Debug/net6.0
 /projects/ItfCode.Extensions.Enumerable/obj
+/.vs
+/tests/ItfCode.Extensions.Enumerable.Tests/obj
